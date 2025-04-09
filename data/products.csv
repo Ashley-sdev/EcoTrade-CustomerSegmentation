@@ -1,0 +1,499 @@
+ProductID,ProductName,Category,SustainabilityScore
+1,Solar Charger,Electronics,63
+2,Solar Charger,Electronics,19
+3,Eco-Friendly Laptop,Electronics,54
+4,Smart Thermostat,Electronics,80
+5,Smart Thermostat,Electronics,17
+6,Smart Thermostat,Electronics,49
+7,Solar Charger,Electronics,2
+8,Energy-Efficient TV,Electronics,55
+9,Solar Charger,Electronics,52
+10,Energy-Efficient TV,Electronics,54
+11,LED Bulb,Electronics,85
+12,Solar Charger,Electronics,24
+13,Solar Charger,Electronics,74
+14,Solar Charger,Electronics,70
+15,Smart Thermostat,Electronics,14
+16,Smart Thermostat,Electronics,20
+17,Energy-Efficient TV,Electronics,79
+18,Energy-Efficient TV,Electronics,82
+19,Solar Charger,Electronics,29
+20,Energy-Efficient TV,Electronics,80
+21,Smart Thermostat,Electronics,54
+22,Energy-Efficient TV,Electronics,58
+23,LED Bulb,Electronics,80
+24,Smart Thermostat,Electronics,69
+25,LED Bulb,Electronics,27
+26,Energy-Efficient TV,Electronics,59
+27,Eco-Friendly Laptop,Electronics,55
+28,Solar Charger,Electronics,28
+29,Smart Thermostat,Electronics,32
+30,LED Bulb,Electronics,6
+31,Eco-Friendly Laptop,Electronics,65
+32,Eco-Friendly Laptop,Electronics,52
+33,Smart Thermostat,Electronics,43
+34,Smart Thermostat,Electronics,11
+35,Eco-Friendly Laptop,Electronics,72
+36,Solar Charger,Electronics,21
+37,Solar Charger,Electronics,78
+38,LED Bulb,Electronics,25
+39,Solar Charger,Electronics,14
+40,Eco-Friendly Laptop,Electronics,28
+41,Eco-Friendly Laptop,Electronics,41
+42,Energy-Efficient TV,Electronics,11
+43,Eco-Friendly Laptop,Electronics,9
+44,Solar Charger,Electronics,19
+45,LED Bulb,Electronics,24
+46,Energy-Efficient TV,Electronics,46
+47,Solar Charger,Electronics,41
+48,LED Bulb,Electronics,85
+49,Solar Charger,Electronics,83
+50,Energy-Efficient TV,Electronics,42
+51,Eco-Friendly Laptop,Electronics,85
+52,Energy-Efficient TV,Electronics,49
+53,Eco-Friendly Laptop,Electronics,77
+54,Energy-Efficient TV,Electronics,86
+55,Smart Thermostat,Electronics,2
+56,Solar Charger,Electronics,84
+57,Solar Charger,Electronics,58
+58,Smart Thermostat,Electronics,68
+59,Eco-Friendly Laptop,Electronics,97
+60,Solar Charger,Electronics,52
+61,Smart Thermostat,Electronics,31
+62,Solar Charger,Electronics,93
+63,LED Bulb,Electronics,69
+64,Eco-Friendly Laptop,Electronics,4
+65,LED Bulb,Electronics,52
+66,Eco-Friendly Laptop,Electronics,3
+67,Smart Thermostat,Electronics,34
+68,Eco-Friendly Laptop,Electronics,70
+69,Eco-Friendly Laptop,Electronics,96
+70,Smart Thermostat,Electronics,81
+71,Eco-Friendly Laptop,Electronics,26
+72,Solar Charger,Electronics,56
+73,Energy-Efficient TV,Electronics,20
+74,Smart Thermostat,Electronics,44
+75,Energy-Efficient TV,Electronics,16
+76,Smart Thermostat,Electronics,65
+77,Smart Thermostat,Electronics,31
+78,LED Bulb,Electronics,28
+79,LED Bulb,Electronics,90
+80,Eco-Friendly Laptop,Electronics,95
+81,Energy-Efficient TV,Electronics,96
+82,Smart Thermostat,Electronics,38
+83,Eco-Friendly Laptop,Electronics,22
+84,Bamboo Utensils,Home & Kitchen,9
+85,Recycled Glassware,Home & Kitchen,25
+86,Bamboo Utensils,Home & Kitchen,36
+87,Water-Saving Showerhead,Home & Kitchen,47
+88,Compost Bin,Home & Kitchen,77
+89,Water-Saving Showerhead,Home & Kitchen,30
+90,Bamboo Utensils,Home & Kitchen,37
+91,Recycled Glassware,Home & Kitchen,94
+92,Solar Oven,Home & Kitchen,77
+93,Water-Saving Showerhead,Home & Kitchen,67
+94,Recycled Glassware,Home & Kitchen,45
+95,Compost Bin,Home & Kitchen,81
+96,Compost Bin,Home & Kitchen,1
+97,Compost Bin,Home & Kitchen,75
+98,Recycled Glassware,Home & Kitchen,68
+99,Water-Saving Showerhead,Home & Kitchen,13
+100,Recycled Glassware,Home & Kitchen,21
+101,Recycled Glassware,Home & Kitchen,40
+102,Solar Oven,Home & Kitchen,32
+103,Solar Oven,Home & Kitchen,90
+104,Water-Saving Showerhead,Home & Kitchen,1
+105,Solar Oven,Home & Kitchen,21
+106,Compost Bin,Home & Kitchen,76
+107,Solar Oven,Home & Kitchen,9
+108,Compost Bin,Home & Kitchen,52
+109,Water-Saving Showerhead,Home & Kitchen,47
+110,Recycled Glassware,Home & Kitchen,36
+111,Recycled Glassware,Home & Kitchen,9
+112,Solar Oven,Home & Kitchen,42
+113,Compost Bin,Home & Kitchen,61
+114,Bamboo Utensils,Home & Kitchen,86
+115,Bamboo Utensils,Home & Kitchen,67
+116,Bamboo Utensils,Home & Kitchen,2
+117,Recycled Glassware,Home & Kitchen,96
+118,Recycled Glassware,Home & Kitchen,60
+119,Compost Bin,Home & Kitchen,10
+120,Solar Oven,Home & Kitchen,99
+121,Bamboo Utensils,Home & Kitchen,92
+122,Compost Bin,Home & Kitchen,48
+123,Compost Bin,Home & Kitchen,4
+124,Solar Oven,Home & Kitchen,75
+125,Compost Bin,Home & Kitchen,22
+126,Solar Oven,Home & Kitchen,49
+127,Water-Saving Showerhead,Home & Kitchen,31
+128,Solar Oven,Home & Kitchen,42
+129,Bamboo Utensils,Home & Kitchen,60
+130,Bamboo Utensils,Home & Kitchen,32
+131,Solar Oven,Home & Kitchen,34
+132,Water-Saving Showerhead,Home & Kitchen,75
+133,Water-Saving Showerhead,Home & Kitchen,17
+134,Bamboo Utensils,Home & Kitchen,60
+135,Water-Saving Showerhead,Home & Kitchen,20
+136,Compost Bin,Home & Kitchen,64
+137,Recycled Glassware,Home & Kitchen,48
+138,Compost Bin,Home & Kitchen,99
+139,Bamboo Utensils,Home & Kitchen,64
+140,Water-Saving Showerhead,Home & Kitchen,13
+141,Solar Oven,Home & Kitchen,25
+142,Recycled Glassware,Home & Kitchen,95
+143,Solar Oven,Home & Kitchen,80
+144,Bamboo Utensils,Home & Kitchen,21
+145,Water-Saving Showerhead,Home & Kitchen,74
+146,Solar Oven,Home & Kitchen,97
+147,Solar Oven,Home & Kitchen,39
+148,Recycled Glassware,Home & Kitchen,46
+149,Recycled Glassware,Home & Kitchen,50
+150,Water-Saving Showerhead,Home & Kitchen,95
+151,Recycled Glassware,Home & Kitchen,15
+152,Solar Oven,Home & Kitchen,9
+153,Solar Oven,Home & Kitchen,76
+154,Bamboo Utensils,Home & Kitchen,46
+155,Solar Oven,Home & Kitchen,81
+156,Water-Saving Showerhead,Home & Kitchen,23
+157,Compost Bin,Home & Kitchen,35
+158,Bamboo Utensils,Home & Kitchen,32
+159,Bamboo Utensils,Home & Kitchen,3
+160,Water-Saving Showerhead,Home & Kitchen,88
+161,Water-Saving Showerhead,Home & Kitchen,12
+162,Recycled Glassware,Home & Kitchen,61
+163,Bamboo Utensils,Home & Kitchen,25
+164,Recycled Glassware,Home & Kitchen,68
+165,Solar Oven,Home & Kitchen,97
+166,Bamboo Utensils,Home & Kitchen,1
+167,Organic Cotton Shirt,Clothing,33
+168,Hemp T-Shirt,Clothing,55
+169,Organic Cotton Shirt,Clothing,49
+170,Bamboo Socks,Clothing,84
+171,Recycled Polyester Jacket,Clothing,49
+172,Recycled Polyester Jacket,Clothing,8
+173,Hemp T-Shirt,Clothing,62
+174,Bamboo Socks,Clothing,84
+175,Recycled Polyester Jacket,Clothing,63
+176,Eco Sneakers,Clothing,68
+177,Bamboo Socks,Clothing,31
+178,Bamboo Socks,Clothing,67
+179,Hemp T-Shirt,Clothing,46
+180,Recycled Polyester Jacket,Clothing,72
+181,Bamboo Socks,Clothing,81
+182,Recycled Polyester Jacket,Clothing,47
+183,Eco Sneakers,Clothing,7
+184,Hemp T-Shirt,Clothing,10
+185,Eco Sneakers,Clothing,39
+186,Hemp T-Shirt,Clothing,71
+187,Bamboo Socks,Clothing,50
+188,Hemp T-Shirt,Clothing,4
+189,Organic Cotton Shirt,Clothing,65
+190,Recycled Polyester Jacket,Clothing,24
+191,Recycled Polyester Jacket,Clothing,21
+192,Organic Cotton Shirt,Clothing,38
+193,Eco Sneakers,Clothing,6
+194,Organic Cotton Shirt,Clothing,29
+195,Bamboo Socks,Clothing,55
+196,Bamboo Socks,Clothing,66
+197,Recycled Polyester Jacket,Clothing,83
+198,Bamboo Socks,Clothing,38
+199,Recycled Polyester Jacket,Clothing,47
+200,Organic Cotton Shirt,Clothing,12
+201,Organic Cotton Shirt,Clothing,17
+202,Organic Cotton Shirt,Clothing,26
+203,Recycled Polyester Jacket,Clothing,45
+204,Organic Cotton Shirt,Clothing,85
+205,Organic Cotton Shirt,Clothing,26
+206,Eco Sneakers,Clothing,21
+207,Organic Cotton Shirt,Clothing,44
+208,Bamboo Socks,Clothing,42
+209,Recycled Polyester Jacket,Clothing,85
+210,Eco Sneakers,Clothing,78
+211,Hemp T-Shirt,Clothing,35
+212,Recycled Polyester Jacket,Clothing,16
+213,Bamboo Socks,Clothing,13
+214,Recycled Polyester Jacket,Clothing,37
+215,Bamboo Socks,Clothing,62
+216,Bamboo Socks,Clothing,71
+217,Hemp T-Shirt,Clothing,32
+218,Recycled Polyester Jacket,Clothing,58
+219,Hemp T-Shirt,Clothing,2
+220,Hemp T-Shirt,Clothing,48
+221,Recycled Polyester Jacket,Clothing,54
+222,Organic Cotton Shirt,Clothing,65
+223,Organic Cotton Shirt,Clothing,72
+224,Hemp T-Shirt,Clothing,45
+225,Eco Sneakers,Clothing,35
+226,Hemp T-Shirt,Clothing,94
+227,Hemp T-Shirt,Clothing,33
+228,Hemp T-Shirt,Clothing,22
+229,Organic Cotton Shirt,Clothing,91
+230,Organic Cotton Shirt,Clothing,72
+231,Organic Cotton Shirt,Clothing,46
+232,Hemp T-Shirt,Clothing,22
+233,Eco Sneakers,Clothing,7
+234,Organic Cotton Shirt,Clothing,62
+235,Recycled Polyester Jacket,Clothing,43
+236,Recycled Polyester Jacket,Clothing,95
+237,Recycled Polyester Jacket,Clothing,97
+238,Bamboo Socks,Clothing,54
+239,Hemp T-Shirt,Clothing,7
+240,Recycled Polyester Jacket,Clothing,79
+241,Hemp T-Shirt,Clothing,55
+242,Recycled Polyester Jacket,Clothing,4
+243,Eco Sneakers,Clothing,75
+244,Hemp T-Shirt,Clothing,23
+245,Recycled Polyester Jacket,Clothing,41
+246,Organic Cotton Shirt,Clothing,71
+247,Hemp T-Shirt,Clothing,47
+248,Bamboo Socks,Clothing,57
+249,Organic Cotton Shirt,Clothing,45
+250,Recycled Yoga Mat,Sports,92
+251,Sustainable Running Shoes,Sports,66
+252,Recycled Yoga Mat,Sports,61
+253,Recycled Yoga Mat,Sports,17
+254,Eco-Friendly Dumbbells,Sports,24
+255,Eco-Friendly Dumbbells,Sports,47
+256,Solar-Powered Watch,Sports,45
+257,Solar-Powered Watch,Sports,59
+258,Solar-Powered Watch,Sports,96
+259,Eco-Friendly Dumbbells,Sports,35
+260,Solar-Powered Watch,Sports,65
+261,Recycled Yoga Mat,Sports,19
+262,Eco-Friendly Dumbbells,Sports,23
+263,Solar-Powered Watch,Sports,80
+264,Recycled Yoga Mat,Sports,32
+265,Solar-Powered Watch,Sports,35
+266,Bamboo Bicycle,Sports,41
+267,Solar-Powered Watch,Sports,82
+268,Bamboo Bicycle,Sports,8
+269,Solar-Powered Watch,Sports,85
+270,Sustainable Running Shoes,Sports,12
+271,Solar-Powered Watch,Sports,94
+272,Eco-Friendly Dumbbells,Sports,36
+273,Eco-Friendly Dumbbells,Sports,48
+274,Bamboo Bicycle,Sports,50
+275,Eco-Friendly Dumbbells,Sports,6
+276,Recycled Yoga Mat,Sports,85
+277,Sustainable Running Shoes,Sports,77
+278,Sustainable Running Shoes,Sports,46
+279,Recycled Yoga Mat,Sports,76
+280,Bamboo Bicycle,Sports,55
+281,Recycled Yoga Mat,Sports,90
+282,Recycled Yoga Mat,Sports,31
+283,Sustainable Running Shoes,Sports,93
+284,Solar-Powered Watch,Sports,26
+285,Sustainable Running Shoes,Sports,67
+286,Sustainable Running Shoes,Sports,9
+287,Eco-Friendly Dumbbells,Sports,7
+288,Recycled Yoga Mat,Sports,15
+289,Sustainable Running Shoes,Sports,71
+290,Recycled Yoga Mat,Sports,8
+291,Eco-Friendly Dumbbells,Sports,95
+292,Recycled Yoga Mat,Sports,39
+293,Sustainable Running Shoes,Sports,11
+294,Recycled Yoga Mat,Sports,49
+295,Eco-Friendly Dumbbells,Sports,76
+296,Solar-Powered Watch,Sports,90
+297,Recycled Yoga Mat,Sports,81
+298,Sustainable Running Shoes,Sports,95
+299,Eco-Friendly Dumbbells,Sports,88
+300,Sustainable Running Shoes,Sports,72
+301,Sustainable Running Shoes,Sports,3
+302,Recycled Yoga Mat,Sports,83
+303,Sustainable Running Shoes,Sports,59
+304,Recycled Yoga Mat,Sports,80
+305,Solar-Powered Watch,Sports,75
+306,Sustainable Running Shoes,Sports,83
+307,Sustainable Running Shoes,Sports,28
+308,Sustainable Running Shoes,Sports,87
+309,Bamboo Bicycle,Sports,42
+310,Bamboo Bicycle,Sports,47
+311,Eco-Friendly Dumbbells,Sports,93
+312,Bamboo Bicycle,Sports,10
+313,Eco-Friendly Dumbbells,Sports,31
+314,Bamboo Bicycle,Sports,62
+315,Solar-Powered Watch,Sports,21
+316,Eco-Friendly Dumbbells,Sports,58
+317,Bamboo Bicycle,Sports,84
+318,Solar-Powered Watch,Sports,75
+319,Bamboo Bicycle,Sports,5
+320,Recycled Yoga Mat,Sports,6
+321,Recycled Yoga Mat,Sports,63
+322,Solar-Powered Watch,Sports,55
+323,Sustainable Running Shoes,Sports,54
+324,Sustainable Running Shoes,Sports,83
+325,Recycled Yoga Mat,Sports,50
+326,Recycled Yoga Mat,Sports,61
+327,Sustainable Running Shoes,Sports,87
+328,Eco-Friendly Dumbbells,Sports,55
+329,Sustainable Running Shoes,Sports,15
+330,Bamboo Bicycle,Sports,35
+331,Eco-Friendly Dumbbells,Sports,64
+332,Bamboo Bicycle,Sports,33
+333,Organic Shampoo,Beauty,47
+334,Natural Deodorant,Beauty,83
+335,Bamboo Toothbrush,Beauty,93
+336,Bamboo Toothbrush,Beauty,15
+337,Natural Deodorant,Beauty,18
+338,Vegan Lip Balm,Beauty,90
+339,Eco Sunscreen,Beauty,82
+340,Bamboo Toothbrush,Beauty,22
+341,Eco Sunscreen,Beauty,3
+342,Eco Sunscreen,Beauty,2
+343,Organic Shampoo,Beauty,73
+344,Eco Sunscreen,Beauty,43
+345,Bamboo Toothbrush,Beauty,45
+346,Organic Shampoo,Beauty,94
+347,Natural Deodorant,Beauty,9
+348,Bamboo Toothbrush,Beauty,44
+349,Organic Shampoo,Beauty,38
+350,Organic Shampoo,Beauty,17
+351,Eco Sunscreen,Beauty,59
+352,Natural Deodorant,Beauty,74
+353,Bamboo Toothbrush,Beauty,50
+354,Bamboo Toothbrush,Beauty,62
+355,Eco Sunscreen,Beauty,10
+356,Natural Deodorant,Beauty,24
+357,Bamboo Toothbrush,Beauty,81
+358,Natural Deodorant,Beauty,60
+359,Bamboo Toothbrush,Beauty,8
+360,Eco Sunscreen,Beauty,19
+361,Vegan Lip Balm,Beauty,79
+362,Bamboo Toothbrush,Beauty,86
+363,Organic Shampoo,Beauty,11
+364,Organic Shampoo,Beauty,44
+365,Vegan Lip Balm,Beauty,13
+366,Bamboo Toothbrush,Beauty,80
+367,Organic Shampoo,Beauty,94
+368,Organic Shampoo,Beauty,2
+369,Bamboo Toothbrush,Beauty,49
+370,Natural Deodorant,Beauty,63
+371,Bamboo Toothbrush,Beauty,67
+372,Natural Deodorant,Beauty,17
+373,Vegan Lip Balm,Beauty,34
+374,Eco Sunscreen,Beauty,80
+375,Vegan Lip Balm,Beauty,43
+376,Eco Sunscreen,Beauty,35
+377,Organic Shampoo,Beauty,85
+378,Organic Shampoo,Beauty,46
+379,Organic Shampoo,Beauty,58
+380,Natural Deodorant,Beauty,88
+381,Eco Sunscreen,Beauty,95
+382,Organic Shampoo,Beauty,78
+383,Bamboo Toothbrush,Beauty,56
+384,Eco Sunscreen,Beauty,42
+385,Eco Sunscreen,Beauty,16
+386,Natural Deodorant,Beauty,92
+387,Vegan Lip Balm,Beauty,59
+388,Natural Deodorant,Beauty,38
+389,Organic Shampoo,Beauty,26
+390,Bamboo Toothbrush,Beauty,22
+391,Bamboo Toothbrush,Beauty,24
+392,Organic Shampoo,Beauty,62
+393,Bamboo Toothbrush,Beauty,99
+394,Natural Deodorant,Beauty,32
+395,Natural Deodorant,Beauty,65
+396,Organic Shampoo,Beauty,30
+397,Bamboo Toothbrush,Beauty,13
+398,Eco Sunscreen,Beauty,49
+399,Vegan Lip Balm,Beauty,52
+400,Eco Sunscreen,Beauty,12
+401,Natural Deodorant,Beauty,36
+402,Natural Deodorant,Beauty,56
+403,Natural Deodorant,Beauty,99
+404,Natural Deodorant,Beauty,64
+405,Vegan Lip Balm,Beauty,88
+406,Organic Shampoo,Beauty,1
+407,Natural Deodorant,Beauty,21
+408,Bamboo Toothbrush,Beauty,15
+409,Vegan Lip Balm,Beauty,97
+410,Natural Deodorant,Beauty,60
+411,Bamboo Toothbrush,Beauty,79
+412,Natural Deodorant,Beauty,15
+413,Organic Shampoo,Beauty,13
+414,Vegan Lip Balm,Beauty,50
+415,Organic Shampoo,Beauty,31
+416,Solar Car Fan,Automotive,17
+417,Recycled Rubber Tires,Automotive,69
+418,Recycled Rubber Tires,Automotive,64
+419,Solar Car Fan,Automotive,1
+420,Eco Car Wash Kit,Automotive,40
+421,Eco Car Wash Kit,Automotive,25
+422,Recycled Rubber Tires,Automotive,71
+423,Recycled Rubber Tires,Automotive,50
+424,Electric Car Charger,Automotive,90
+425,Recycled Rubber Tires,Automotive,40
+426,Solar Car Fan,Automotive,88
+427,Eco Car Wash Kit,Automotive,79
+428,Eco Car Wash Kit,Automotive,97
+429,Electric Car Charger,Automotive,27
+430,Eco Car Wash Kit,Automotive,11
+431,Eco Car Wash Kit,Automotive,11
+432,Biodegradable Car Wipes,Automotive,50
+433,Solar Car Fan,Automotive,73
+434,Biodegradable Car Wipes,Automotive,69
+435,Eco Car Wash Kit,Automotive,90
+436,Electric Car Charger,Automotive,99
+437,Electric Car Charger,Automotive,15
+438,Eco Car Wash Kit,Automotive,93
+439,Recycled Rubber Tires,Automotive,86
+440,Biodegradable Car Wipes,Automotive,38
+441,Eco Car Wash Kit,Automotive,69
+442,Electric Car Charger,Automotive,27
+443,Electric Car Charger,Automotive,77
+444,Biodegradable Car Wipes,Automotive,9
+445,Solar Car Fan,Automotive,52
+446,Eco Car Wash Kit,Automotive,90
+447,Eco Car Wash Kit,Automotive,33
+448,Solar Car Fan,Automotive,17
+449,Biodegradable Car Wipes,Automotive,32
+450,Biodegradable Car Wipes,Automotive,29
+451,Electric Car Charger,Automotive,26
+452,Solar Car Fan,Automotive,76
+453,Biodegradable Car Wipes,Automotive,31
+454,Recycled Rubber Tires,Automotive,22
+455,Eco Car Wash Kit,Automotive,90
+456,Electric Car Charger,Automotive,97
+457,Solar Car Fan,Automotive,16
+458,Electric Car Charger,Automotive,72
+459,Biodegradable Car Wipes,Automotive,80
+460,Biodegradable Car Wipes,Automotive,30
+461,Recycled Rubber Tires,Automotive,11
+462,Eco Car Wash Kit,Automotive,48
+463,Solar Car Fan,Automotive,16
+464,Electric Car Charger,Automotive,87
+465,Eco Car Wash Kit,Automotive,61
+466,Biodegradable Car Wipes,Automotive,2
+467,Eco Car Wash Kit,Automotive,78
+468,Electric Car Charger,Automotive,15
+469,Eco Car Wash Kit,Automotive,24
+470,Biodegradable Car Wipes,Automotive,36
+471,Eco Car Wash Kit,Automotive,66
+472,Solar Car Fan,Automotive,47
+473,Eco Car Wash Kit,Automotive,98
+474,Solar Car Fan,Automotive,30
+475,Eco Car Wash Kit,Automotive,10
+476,Biodegradable Car Wipes,Automotive,38
+477,Recycled Rubber Tires,Automotive,6
+478,Recycled Rubber Tires,Automotive,48
+479,Solar Car Fan,Automotive,85
+480,Solar Car Fan,Automotive,51
+481,Recycled Rubber Tires,Automotive,18
+482,Biodegradable Car Wipes,Automotive,86
+483,Biodegradable Car Wipes,Automotive,27
+484,Eco Car Wash Kit,Automotive,56
+485,Solar Car Fan,Automotive,9
+486,Biodegradable Car Wipes,Automotive,58
+487,Electric Car Charger,Automotive,20
+488,Eco Car Wash Kit,Automotive,27
+489,Eco Car Wash Kit,Automotive,32
+490,Recycled Rubber Tires,Automotive,12
+491,Solar Car Fan,Automotive,83
+492,Biodegradable Car Wipes,Automotive,98
+493,Biodegradable Car Wipes,Automotive,37
+494,Eco Car Wash Kit,Automotive,13
+495,Solar Car Fan,Automotive,95
+496,Solar Car Fan,Automotive,10
+497,Solar Car Fan,Automotive,14
+498,Recycled Rubber Tires,Automotive,28
