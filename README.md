@@ -21,7 +21,7 @@ To segment EcoTrade customers based on **income**, **age**, and **region**, and 
 
 ## 📂 Folder Structure
 
-EcoTrade-CustomerSegmentation-R/ │ ├── data/ │ └── Customer_Demographics.csv # Raw dataset │ ├── plots/ │ ├── income_by_age_group.png │ ├── region_distribution.png │ ├── income_by_region.png │ ├── income_boxplot_by_age.png │ └── certified_vs_noncertified.png │ ├── EcoTrade_Segmentation.R # Main R analysis script └── README.md # This file
+EcoTrade-CustomerSegmentation-R/ │ ├── data/ │ └── Customer_Demographics.csv # Raw dataset used for analysis │ ├── plots/ # All generated plots from R script │ ├── income_by_age_group.png │ ├── region_distribution.png │ ├── income_by_region.png │ ├── income_boxplot_by_age.png │ └── certified_vs_noncertified.png │ ├── EcoTrade_Segmentation.R # Main R script for data wrangling and visualization ├── README.md # This file - Project documentation
 
 
 ## 📊 Visuals Created
