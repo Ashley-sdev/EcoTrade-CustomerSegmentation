@@ -20,7 +20,7 @@ customers_clean <- customers %>%
   ))
 print (customers_clean)
 
-#average income by Age group
+#average income by age group
 income_plot <- customers_clean %>%
   group_by(AgeGroup) %>%
   summarise(AverageIncome = mean(Income)) %>%
@@ -44,6 +44,43 @@ print(region_plot)
 
 #save region_plot
 ggsave("C:/Users/muhle/Documents/repos/EcoTrade-CustomerSegmentation-R/plots/region_distribution.png", region_plot, width = 6, height = 4)
+
+#average income per region
+income_region_plot <- customers_clean %>%
+  group_by(Region) %>%
+  summarise(AverageIncome = mean(Income)) %>%
+  ggplot(aes(x = Region, y = AverageIncome, fill = Region)) +
+  geom_col() +
+  labs(title = "Average Income by Region", y = "Average Income", x = "Region") +
+  theme_minimal()
+print(income_region_plot)
+
+ggsave("C:/Users/muhle/Documents/repos/EcoTrade-CustomerSegmentation-R/plots/income_by_region.png", income_region_plot, width = 6, height = 4)
+
+income_age_boxplot <- customers_clean %>%
+  ggplot(aes(x = AgeGroup, y = Income, fill = AgeGroup)) +
+  geom_boxplot() +
+  labs(title = "Income Distribution by Age Group", x = "Age Group", y = "Income") +
+  theme_classic()
+print(income_age_boxplot)
+
+ggsave("c:/Users/muhle/Documents/repos/EcoTrade-CustomerSegmentation-R/plots/income_boxplot_by_age.png", income_age_boxplot, width = 6, height = 4)
+
+#bar plot showing certified and non-certified product customer preference
+set.seed(42)  # for reproducibility
+customers_clean <- customers_clean %>%
+  mutate(CertPreference = sample(c("Certified", "Non-Certified"), n(), replace = TRUE, prob = c(0.7, 0.3)))
+
+cert_plot <- customers_clean %>%
+  count(CertPreference) %>%
+  ggplot(aes(x = CertPreference, y = n, fill = CertPreference)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Customer Preference: Certified vs Non-Certified Products", x = "Preference", y = "Number of Customers") +
+  theme_minimal()
+
+# Display and save the certification plot
+print(cert_plot)
+ggsave("c:/Users/muhle/Documents/repos/EcoTrade-CustomerSegmentation-R/plots/certified_vs_noncertified.png", cert_plot, width = 6, height = 4)
 
 #summary
 print("Top 3 Income Groups by Age:")
