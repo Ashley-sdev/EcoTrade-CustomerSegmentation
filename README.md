@@ -61,7 +61,7 @@ EcoTrade-CustomerSegmentation-R/ │ ├── data/ │ └── Customer_Demo
 **Muhle Ntuli**  
 Final Year IT Student | Passionate about Cloud, Data, and Analytics  
 GitHub: [Ashley-sdev](https://github.com/Ashley-sdev)  
-LinkedIn: [Insert your link here]
+LinkedIn: [[http://www.linkedin.com/in/muhle-ntuli-9a7638342]
 
 ## 📎 Related Projects
 
